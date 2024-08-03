@@ -130,7 +130,7 @@ To compile and run the programs, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/philosophers.git
+   git clone https://github.com/aabderrafie/philosophers_42.git
    cd philosophers
    ```
 
